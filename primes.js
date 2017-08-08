@@ -20,4 +20,4 @@ function findPrimes(start, end) {
   console.log(primes)
 }
 
-findPrimes(-7, 100)
+findPrimes(1000000, 1000100)
